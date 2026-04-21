@@ -25,6 +25,6 @@ Recommendations
 - Replicate the high-performing West Region’s engagement model in the South to capture untapped market share within the Consumer segment.
 - Streamline logistics for Standard Class shipping to reduce operational costs and maximize margins on the most-preferred customer delivery method.
 
-  Conclusion
+Conclusion
 This project successfully transitioned raw data into an interactive Looker Studio dashboard, identifying the Consumer segment and Technology category as primary growth drivers. By establishing a high-integrity data foundation, the analysis provides actionable strategies to stabilize seasonal revenue and expand market share in underperforming regions, ensuring more efficient and data-driven operations.
   
